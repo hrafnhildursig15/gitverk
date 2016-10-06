@@ -1,0 +1,2 @@
+# gitverk
+git verkefni
